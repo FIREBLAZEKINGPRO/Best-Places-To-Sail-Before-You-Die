@@ -22,3 +22,21 @@ body {
  #thirdline  {
  	text-align: right;
  }
+
+ #firstline {
+ 	display: flex;
+ 	font-size: 24px;
+ 	justify-content: space-between;
+ }
+
+ #secondline  {
+ 	display: flex;
+ 	font-size: 24px;
+ 	justify-content: space-between;
+ }
+
+ #thirdline  {
+ 	display: flex;
+ 	font-size: 24px;
+ 	justify-content: space-between;
+}
